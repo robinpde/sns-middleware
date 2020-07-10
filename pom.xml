@@ -24,7 +24,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		
-		<!-- backend project -->
+		<!-- quick-start back-end project -->
 		<dependency>
 			<groupId>org.hov</groupId>
 			<artifactId>sns-backend</artifactId>
